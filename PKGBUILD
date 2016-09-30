@@ -76,7 +76,7 @@ _NUMAdisable=	# Disable NUMA in kernel config
 pkgname=(linux-lts-ck linux-lts-ck-headers)
 _kernelname=-lts-ck
 _srcname=linux-4.4
-pkgver=4.4.22
+pkgver=4.4.23
 pkgrel=1
 arch=('i686' 'x86_64')
 url="https://wiki.archlinux.org/index.php/Linux-ck"
@@ -107,7 +107,7 @@ source=("http://www.kernel.org/pub/linux/kernel/v4.x/${_srcname}.tar.xz"
 
 sha256sums=('401d7c8fef594999a460d10c72c5a94e9c2e1022f16795ec51746b0d165418b2'
             'SKIP'
-            'e3d58f355a5d00ecefae056df226ad2b165939c950148dd919a92158bbd0223b'
+            '0592b15bb78879ffa72933c71b8b11787a7b4560ea33b8ba8b421df034ee74c8'
             'SKIP'
             '85a1a38ee265eaf2965ca49000a950061b0fadf69f01ddcd50a91a98f6d04b2d'
             'd4a2a40eb860f3a7cf692ff7196fedb20fac27b6839aaa788df468b26190aea7'
